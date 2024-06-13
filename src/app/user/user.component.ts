@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { GamesComponent } from '../games/games.component';
 
+
 @Component({
   selector: 'app-user',
   standalone: true,
